@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+https://img.shields.io/badge/Primary-Node.js-green
+https://img.shields.io/badge/Primary-Javascript-green
+https://img.shields.io/badge/Primary-HTML-green
+https://img.shields.io/badge/Primary-CSS-green
+
 <!--
 **sagar2agrawal/sagar2agrawal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
